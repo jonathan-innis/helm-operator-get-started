@@ -18,3 +18,5 @@ spec:
       repository: stefanprodan/podinfo
       tag: 0.4.11
     replicaCount: 3
+    service:
+      metricsPort: 9898
