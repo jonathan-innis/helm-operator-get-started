@@ -10,7 +10,7 @@ metadata:
 spec:
   releaseName: podinfo-prod
   chart:
-    git: git@github.com:jonathan-innis/helm-operator-get-started
+    git: https://github.com/jonathan-innis/helm-operator-get-started.git
     path: charts/podinfo
     ref: master
   values:
